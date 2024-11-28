@@ -6861,7 +6861,6 @@ __metadata:
     "@backstage/dev-utils": "npm:^1.1.4"
     "@backstage/test-utils": "npm:^1.7.2"
     "@backstage/theme": "npm:^0.6.2"
-    "@internal/backstage-plugin-myplugin-backend": "workspace:^"
     "@material-ui/core": "npm:^4.9.13"
     "@material-ui/icons": "npm:^4.9.1"
     "@material-ui/lab": "npm:^4.0.0-alpha.61"
@@ -6876,7 +6875,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@internal/backstage-plugin-myplugin-backend@npm:^0.1.0, @internal/backstage-plugin-myplugin-backend@workspace:^, @internal/backstage-plugin-myplugin-backend@workspace:plugins/myplugin-backend":
+"@internal/backstage-plugin-myplugin-backend@npm:^0.1.0, @internal/backstage-plugin-myplugin-backend@workspace:plugins/myplugin-backend":
   version: 0.0.0-use.local
   resolution: "@internal/backstage-plugin-myplugin-backend@workspace:plugins/myplugin-backend"
   dependencies:

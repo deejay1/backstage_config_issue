@@ -116,5 +116,17 @@ myPlugin:
   baseUrl: https://localhost
   providers:
     - name: foo
+      sync:
+        enabled: true
+        timeoutInMinutes: 5
+        cron: "foo"
     - name: bar
+      sync:
+        enabled: true
+        timeoutInMinutes: 5
+        cron: "bar"
     - name: baz
+      sync:
+        enabled: true
+        timeoutInMinutes: 5
+        cron: "foo"
